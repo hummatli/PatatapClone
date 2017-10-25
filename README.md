@@ -1,7 +1,3 @@
-# PatatapClone
-
-
-
 <h1>Patatap Clone</h1>
 
 Animation application created by PaperJS inspired by Patatap written in HTML, CSS and JavaScript, PaperJS. 
